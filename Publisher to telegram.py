@@ -12,7 +12,7 @@ import random
 
 
 
-TOKEN = '123'
+TOKEN = '000'
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
 
